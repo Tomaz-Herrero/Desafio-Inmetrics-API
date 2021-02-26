@@ -38,6 +38,6 @@ Clique com o botão direito na classe e selecione a opção => Run Ass, Junit Te
 1.0.0
  
 ## Tomaz Henrique dos P. Herrero
-### Email:tomazherrero@gmail.com
+### Email    => tomazherrero@gmail.com
 ### Linkedin => https://www.linkedin.com/in/tomaz-herrero/
 
