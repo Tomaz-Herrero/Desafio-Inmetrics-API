@@ -20,7 +20,7 @@ Tecnologias utilizadas para esse projeto
 > https://www.eclipse.org/downloads/packages/release/2020-03/r
 * Pode ser que mesmo importando as bibliotecas do Cucumber, utilizando o eclipse você tenha que instalar pelo endereço:
 > http://cucumber.github.io/cucumber-eclipse/update-site/
-* Intalar as bibliotecas utilizando o (maven -install), por linha de comando ou nas opções do sistema que está tulizando.
+* Intalar as bibliotecas utilizando o (maven -install), por linha de comando ou nas opções do sistema que está utilizando.
 
 ## Com todo o ambiente preparado  
 Entre no diretório (src/test/java/ -> package -> runner);
